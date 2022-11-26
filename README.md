@@ -104,7 +104,7 @@ Anggota :
 | F2     | E2,A10 | 501       | 19      |
 
 7. Penggabungan subnet Keenam (G)
-![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step7.png?raw=true)
+![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step6.png?raw=true)
 
 | Subnet | Alias | Jumlah IP | Netmask |
 | ------ | ----- | --------- | ------- |
@@ -112,14 +112,14 @@ Anggota :
 | G2     | F2,A6 | 501       | 18      |
 
 8. Penggabungan subnet Ketujuh (H)
-![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step8.png?raw=true)
+![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step7.png?raw=true)
 
 | Subnet | Alias | Jumlah IP | Netmask |
 | ------ | ----- | --------- | ------- |
 | H1     | G2,A7 | 501       | 17      |
 
 9. Penggabungan subnet Kedelapan (I)
-![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step9.png?raw=true)
+![alt text](https://github.com/Graidy27/Jarkom-Modul-4-B01-2022/blob/main/step8.png?raw=true)
 
  | Subnet | Alias | Jumlah IP | Netmask |
 | ------ | ----- | --------- | ------- |
